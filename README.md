@@ -28,3 +28,6 @@ A personal portfolio website created during my frontend development course to pr
 ## Deployment
 
 Deployed using GitHub Pages.
+
+<img width="1383" height="633" alt="Screenshot 2026-11-16 at 11 59 30 AM" src="https://github.com/user-attachments/assets/939f8f8c-edea-443b-b5e3-6bf7c607eedf" />
+
